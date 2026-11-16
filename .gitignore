@@ -1,0 +1,9 @@
+.env
+__pycache__/
+.devcontainer/
+Project_Source_Code.pdf
+BinsightFlow_Codebase.pdf
+Codebase_Functionality_Overview.md
+codebase_full.pdf
+
+
